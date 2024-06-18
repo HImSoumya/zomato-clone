@@ -1,0 +1,454 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "restaurant_name": "Tandoor Palace",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.5,
+      "offers": "10% off on all orders above $50",
+      "location": "Bhubaneswar",
+      "thumbnail": "https://www.pexels.com/photo/pancake-with-sliced-strawberry-376464/"
+    },
+    {
+      "id": 2,
+      "restaurant_name": "Sushi Delight",
+      "restaurant_type": "Japanese Cuisine",
+      "rating": 3.2,
+      "offers": "Free dessert with every meal",
+      "location": "Bhubaneswar",
+      "thumbnail": "https://www.pexels.com/photo/fries-and-burger-on-plate-70497/"
+    },
+    {
+      "id": 3,
+      "restaurant_name": "Pizza Haven",
+      "restaurant_type": "Italian Cuisine",
+      "rating": 4.7,
+      "offers": "Buy one get one free on all pizzas",
+      "location": "Bhubaneswar",
+      "thumbnail": "https://www.pexels.com/photo/white-rice-chicken-and-broccoli-on-black-non-stick-pan-105588/"
+    },
+    {
+      "id": 4,
+      "restaurant_name": "Golden Spoon",
+      "restaurant_type": "Chinese Cuisine",
+      "rating": 3.4,
+      "offers": "15% off on all orders above $40",
+      "location": "Baripada",
+      "thumbnail": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZvb2R8ZW58MHwxfDB8fHww"
+    },
+    {
+      "id": 5,
+      "restaurant_name": "BBQ Junction",
+      "restaurant_type": "American Cuisine",
+      "rating": 4.6,
+      "offers": "Free appetizer with every BBQ platter",
+      "location": "Baripada",
+      "thumbnail": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "restaurant_name": "Pasta Paradise",
+      "restaurant_type": "Italian Cuisine",
+      "rating": 4.3,
+      "offers": "20% off on all pasta dishes",
+      "location": "Bhubaneswar",
+      "thumbnail": "pasta_paradise.jpg"
+    },
+    {
+      "id": 7,
+      "restaurant_name": "Szechuan Delight",
+      "restaurant_type": "Chinese Cuisine",
+      "rating": 2.6,
+      "offers": "Free soup with every order",
+      "location": "Bhubaneswar",
+      "thumbnail": "szechuan_delight.jpg"
+    },
+    {
+      "id": 8,
+      "restaurant_name": "Mughlai Treat",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.4,
+      "offers": "10% off on all Mughlai dishes",
+      "location": "Bhubaneswar",
+      "thumbnail": "mughlai_treat.jpg"
+    },
+    {
+      "id": 9,
+      "restaurant_name": "Cafe Latte",
+      "restaurant_type": "Cafe",
+      "rating": 4.7,
+      "offers": "Free coffee refill with every breakfast combo",
+      "location": "Bhubaneswar",
+      "thumbnail": "cafe_latte.jpg"
+    },
+    {
+      "id": 10,
+      "restaurant_name": "Taste of Thailand",
+      "restaurant_type": "Thai Cuisine",
+      "rating": 4.5,
+      "offers": "15% off on all Thai curries",
+      "location": "Bhubaneswar",
+      "thumbnail": "taste_of_thailand.jpg"
+    },
+    {
+      "id": 11,
+      "restaurant_name": "La Pizzeria",
+      "restaurant_type": "Italian Cuisine",
+      "rating": 2.2,
+      "offers": "Free garlic bread with every pizza",
+      "location": "Bhubaneswar",
+      "thumbnail": "la_pizzeria.jpg"
+    },
+    {
+      "id": 12,
+      "restaurant_name": "Burger Binge",
+      "restaurant_type": "American Cuisine",
+      "rating": 4.8,
+      "offers": "20% off on all gourmet burgers",
+      "location": "Bhubaneswar",
+      "thumbnail": "burger_binge.jpg"
+    },
+    {
+      "id": 13,
+      "restaurant_name": "Soul Spice",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.6,
+      "offers": "Free naan with every curry order",
+      "location": "Baripada",
+      "thumbnail": "soul_spice.jpg"
+    },
+    {
+      "id": 14,
+      "restaurant_name": "Mama Mia",
+      "restaurant_type": "Italian Cuisine",
+      "rating": 3.4,
+      "offers": "Buy one get one free on all pastas",
+      "location": "Baripada",
+      "thumbnail": "mama_mia.jpg"
+    },
+    {
+      "id": 15,
+      "restaurant_name": "Noodle Nation",
+      "restaurant_type": "Chinese Cuisine",
+      "rating": 4.3,
+      "offers": "Free spring rolls with every noodle dish",
+      "location": "Baripada",
+      "thumbnail": "noodle_nation.jpg"
+    },
+    {
+      "id": 16,
+      "restaurant_name": "Fisherman's Cove",
+      "restaurant_type": "Seafood",
+      "rating": 3.7,
+      "offers": "10% off on all seafood platters",
+      "location": "Baripada",
+      "thumbnail": "fishermans_cove.jpg"
+    },
+    {
+      "id": 17,
+      "restaurant_name": "Spice Route",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.5,
+      "offers": "Free dessert with every Indian thali",
+      "location": "Bhubaneswar",
+      "thumbnail": "spice_route.jpg"
+    },
+    {
+      "id": 18,
+      "restaurant_name": "Taco Tango",
+      "restaurant_type": "Mexican Cuisine",
+      "rating": 1.4,
+      "offers": "Buy one get one free on all tacos",
+      "location": "Bhubaneswar",
+      "thumbnail": "taco_tango.jpg"
+    },
+    {
+      "id": 19,
+      "restaurant_name": "Waffle World",
+      "restaurant_type": "Dessert",
+      "rating": 4.6,
+      "offers": "15% off on all waffle combos",
+      "location": "Bhubaneswar",
+      "thumbnail": "waffle_world.jpg"
+    },
+    {
+      "id": 20,
+      "restaurant_name": "Crispy Crust",
+      "restaurant_type": "Pizza",
+      "rating": 4.5,
+      "offers": "Free garlic bread with every pizza order",
+      "location": "Baripada",
+      "thumbnail": "crispy_crust.jpg"
+    },
+    {
+      "id": 21,
+      "restaurant_name": "Chopsticks Express",
+      "restaurant_type": "Chinese Cuisine",
+      "rating": 4.2,
+      "offers": "Free spring rolls with every order",
+      "location": "Bhubaneswar",
+      "thumbnail": "chopsticks_express.jpg"
+    },
+    {
+      "id": 22,
+      "restaurant_name": "Biryani House",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.6,
+      "offers": "10% off on all biryani orders",
+      "location": "Bhubaneswar",
+      "thumbnail": "biryani_house.jpg"
+    },
+    {
+      "id": 23,
+      "restaurant_name": "Sizzler's Den",
+      "restaurant_type": "Steakhouse",
+      "rating": 4.5,
+      "offers": "Free dessert with every steak",
+      "location": "Bhubaneswar",
+      "thumbnail": "sizzlers_den.jpg"
+    },
+    {
+      "id": 24,
+      "restaurant_name": "Tempting Tacos",
+      "restaurant_type": "Mexican Cuisine",
+      "rating": 3.3,
+      "offers": "20% off on all taco platters",
+      "location": "Bhubaneswar",
+      "thumbnail": "tempting_tacos.jpg"
+    },
+    {
+      "id": 25,
+      "restaurant_name": "Sizzling Sizzlers",
+      "restaurant_type": "Steakhouse",
+      "rating": 4.7,
+      "offers": "Free soup with every sizzler",
+      "location": "Bhubaneswar",
+      "thumbnail": "sizzling_sizzlers.jpg"
+    },
+    {
+      "id": 26,
+      "restaurant_name": "Kebab Corner",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.4,
+      "offers": "15% off on all kebab platters",
+      "location": "Bhubaneswar",
+      "thumbnail": "kebab_corner.jpg"
+    },
+    {
+      "id": 27,
+      "restaurant_name": "Bowl of Heaven",
+      "restaurant_type": "Asian Cuisine",
+      "rating": 2.6,
+      "offers": "Free appetizer with every bowl",
+      "location": "Bhubaneswar",
+      "thumbnail": "bowl_of_heaven.jpg"
+    },
+    {
+      "id": 28,
+      "restaurant_name": "Pancake Paradise",
+      "restaurant_type": "Breakfast",
+      "rating": 4.8,
+      "offers": "10% off on all pancake stacks",
+      "location": "Bhubaneswar",
+      "thumbnail": "pancake_paradise.jpg"
+    },
+    {
+      "id": 29,
+      "restaurant_name": "Tropical Treats",
+      "restaurant_type": "Caribbean Cuisine",
+      "rating": 3.5,
+      "offers": "Free dessert with every Caribbean dish",
+      "location": "Bhubaneswar",
+      "thumbnail": "tropical_treats.jpg"
+    },
+    {
+      "id": 30,
+      "restaurant_name": "Crab Shack",
+      "restaurant_type": "Seafood",
+      "rating": 3.7,
+      "offers": "15% off on all crab platters",
+      "location": "Baripada",
+      "thumbnail": "crab_shack.jpg"
+    },
+    {
+      "id": 31,
+      "restaurant_name": "Noodle House",
+      "restaurant_type": "Asian Cuisine",
+      "rating": 4.4,
+      "offers": "Free spring rolls with every noodle dish",
+      "location": "Baripada",
+      "thumbnail": "noodle_house.jpg"
+    },
+    {
+      "id": 32,
+      "restaurant_name": "Burrito Buzz",
+      "restaurant_type": "Mexican Cuisine",
+      "rating": 2.3,
+      "offers": "20% off on all burritos",
+      "location": "Baripada",
+      "thumbnail": "burrito_buzz.jpg"
+    },
+    {
+      "id": 33,
+      "restaurant_name": "Taj Mahal",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.6,
+      "offers": "Free dessert with every curry",
+      "location": "Baripada",
+      "thumbnail": "taj_mahal.jpg"
+    },
+    {
+      "id": 34,
+      "restaurant_name": "Sizzling Wok",
+      "restaurant_type": "Asian Cuisine",
+      "rating": 3.5,
+      "offers": "10% off on all wok dishes",
+      "location": "Baripada",
+      "thumbnail": "sizzling_wok.jpg"
+    },
+    {
+      "id": 35,
+      "restaurant_name": "Bake N' Flake",
+      "restaurant_type": "Bakery",
+      "rating": 4.7,
+      "offers": "Free pastry with every coffee",
+      "location": "Bhubaneswar",
+      "thumbnail": "bake_n_flake.jpg"
+    },
+    {
+      "id": 36,
+      "restaurant_name": "Hot Pot Heaven",
+      "restaurant_type": "Asian Cuisine",
+      "rating": 4.4,
+      "offers": "15% off on all hot pot dishes",
+      "location": "Bhubaneswar",
+      "thumbnail": "hot_pot_heaven.jpg"
+    },
+    {
+      "id": 37,
+      "restaurant_name": "Chili Chomp",
+      "restaurant_type": "Mexican Cuisine",
+      "rating": 4.6,
+      "offers": "Free dessert with every chili dish",
+      "location": "Bhubaneswar",
+      "thumbnail": "chili_chomp.jpg"
+    },
+    {
+      "id": 38,
+      "restaurant_name": "Sizzle & Spice",
+      "restaurant_type": "Steakhouse",
+      "rating": 4.5,
+      "offers": "10% off on all steak orders",
+      "location": "Bhubaneswar",
+      "thumbnail": "sizzle_and_spice.jpg"
+    },
+    {
+      "id": 39,
+      "restaurant_name": "Taste of Italy",
+      "restaurant_type": "Italian Cuisine",
+      "rating": 2.3,
+      "offers": "Free garlic bread with every pasta",
+      "location": "Bhubaneswar",
+      "thumbnail": "taste_of_italy.jpg"
+    },
+    {
+      "id": 40,
+      "restaurant_name": "Wok This Way",
+      "restaurant_type": "Asian Cuisine",
+      "rating": 4.7,
+      "offers": "15% off on all stir-fry dishes",
+      "location": "Bhubaneswar",
+      "thumbnail": "wok_this_way.jpg"
+    },
+    {
+      "id": 41,
+      "restaurant_name": "Salad Stop",
+      "restaurant_type": "Healthy Cuisine",
+      "rating": 4.4,
+      "offers": "Free drink with every salad",
+      "location": "Bhubaneswar",
+      "thumbnail": "salad_stop.jpg"
+    },
+    {
+      "id": 42,
+      "restaurant_name": "Rajasthani Rasoi",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 4.6,
+      "offers": "10% off on all Rajasthani thalis",
+      "location": "Bhubaneswar",
+      "thumbnail": "rajasthani_rasoi.jpg"
+    },
+    {
+      "id": 43,
+      "restaurant_name": "Chaat Chatore",
+      "restaurant_type": "Indian Street Food",
+      "rating": 2.5,
+      "offers": "Free dessert with every chaat order",
+      "location": "Bhubaneswar",
+      "thumbnail": "chaat_chatore.jpg"
+    },
+    {
+      "id": 44,
+      "restaurant_name": "Peking Palace",
+      "restaurant_type": "Chinese Cuisine",
+      "rating": 4.3,
+      "offers": "Buy one get one free on all Peking duck dishes",
+      "location": "Bhubaneswar",
+      "thumbnail": "peking_palace.jpg"
+    },
+    {
+      "id": 45,
+      "restaurant_name": "Bollywood Bites",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 3.7,
+      "offers": "Free dessert with every Bollywood thali",
+      "location": "Bhubaneswar",
+      "thumbnail": "bollywood_bites.jpg"
+    },
+    {
+      "id": 46,
+      "restaurant_name": "Taco Time",
+      "restaurant_type": "Mexican Cuisine",
+      "rating": 4.6,
+      "offers": "10% off on all taco orders",
+      "location": "Bhubaneswar",
+      "thumbnail": "taco_time.jpg"
+    },
+    {
+      "id": 47,
+      "restaurant_name": "Bread & Beyond",
+      "restaurant_type": "Bakery",
+      "rating": 3.4,
+      "offers": "Free croissant with every coffee",
+      "location": "Bhubaneswar",
+      "thumbnail": "bread_and_beyond.jpg"
+    },
+    {
+      "id": 48,
+      "restaurant_name": "Sushi Station",
+      "restaurant_type": "Japanese Cuisine",
+      "rating": 4.8,
+      "offers": "15% off on all sushi rolls",
+      "location": "Bhubaneswar",
+      "thumbnail": "sushi_station.jpg"
+    },
+    {
+      "id": 49,
+      "restaurant_name": "Balti Bazaar",
+      "restaurant_type": "Indian Cuisine",
+      "rating": 3.5,
+      "offers": "Free dessert with every Balti dish",
+      "location": "Bhubaneswar",
+      "thumbnail": "balti_bazaar.jpg"
+    },
+    {
+      "id": 50,
+      "restaurant_name": "Fusion Factory",
+      "restaurant_type": "Fusion Cuisine",
+      "rating": 3.3,
+      "offers": "Buy one get one free on all fusion dishes",
+      "location": "Bhubaneswar",
+      "thumbnail": "fusion_factory.jpg"
+    }
+  ]
+}
